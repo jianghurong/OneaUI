@@ -7,4 +7,5 @@ a mini program ui library
 ![image](https://github.com/jianghurong/OneaUI/blob/master/gif/leftslip.gif)
 ### 图片懒加载效果图
 ![image](https://github.com/jianghurong/OneaUI/blob/master/gif/imageLazyload.gif)
+资源是网上找的，封装到了小程序上。
 
