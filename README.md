@@ -2,4 +2,4 @@
 a mini program ui library
 ### 此库主要包含三个功能（后期持续更新）：1.左滑删除 2.图片预加载 3.加载动画
 #####加载动画效果图
-![image](https://github.com/jianghurong/OneaUI/master/gif/loading.gif)
+![image](https://github.com/jianghurong/OneaUI/blob/master/gif/loading.gif)
