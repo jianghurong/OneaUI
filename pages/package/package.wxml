@@ -1,0 +1,10 @@
+<!--pages/package/package.wxml-->
+<!-- <button class='center' bindtap='getTime'>获取时间</button>
+<button class='center'>获取用户信息</button>
+<button class='center' bindtap='downloadMusic'>下载音频（raw）</button>
+<button class='center' bindtap='startMusic'>播放音频</button>
+<button class='center' bindtap='saveImages'>保存图片</button>
+<button class='center' bindtap='startDraw'>动态绘制</button> -->
+<button class='center' bindtap='leftSlip'>左滑删除</button>
+<button class='center' bindtap='loadImage'>图片预加载</button>
+<button class='center' bindtap='loading'>加载动画</button>

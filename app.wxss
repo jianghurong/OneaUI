@@ -1,0 +1,32 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
+page {
+  margin: 0;
+  padding: 0;
+  height: 100%; 
+}
+/*
+居中:默认宽度为750rpx(可更改),文字居中，view居中
+*/
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+/*
+ellipsis-显示省略号
+hidden-清除浮动
+nowrap-不换行
+*/
+.overflow {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}

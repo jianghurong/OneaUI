@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/package/package",
+    "pages/leftSlip/leftSlip",
+    "pages/loadImage/loadImage",
+    "pages/loading/loading"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

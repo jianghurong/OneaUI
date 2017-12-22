@@ -1,0 +1,3 @@
+/* pages/loading/loading.wxss */
+@import "../../component/loading/loading.wxss";
+
